@@ -8,7 +8,7 @@ An automated incident response solution that detects AWS GuardDuty findings and 
 
 ## 📖 Detailed Walkthrough
 For a comprehensive step-by-step guide, including screenshots and detailed explanations, check out the full tutorial on Medium:
-[**How to Create a Slack App and Webhook: A Step-by-Step Guide**](https://towardsaws.com/how-to-build-an-automated-aws-incident-response-system-with-guardduty-eventbridge-lambda-and-7e5ae18c85cd)
+[**How to Build an Automated AWS Incident Response System with GuardDuty, EventBridge, Lambda, and Slack**](https://towardsaws.com/how-to-build-an-automated-aws-incident-response-system-with-guardduty-eventbridge-lambda-and-7e5ae18c85cd?source=friends_link&sk=2a3a486e4f49a2801e32f7309391bdea)
 
 ---
 ## Features
@@ -121,7 +121,7 @@ chmod +x guardduty_simulation.sh
 
 ## Detailed Tutorial
 For a comprehensive step-by-step guide, including screenshots and detailed explanations, check out the full tutorial on Medium:
-[**How to Create a Slack App and Webhook: A Step-by-Step Guide**](https://towardsaws.com/how-to-build-an-automated-aws-incident-response-system-with-guardduty-eventbridge-lambda-and-7e5ae18c85cd)
+[**How to Build an Automated AWS Incident Response System with GuardDuty, EventBridge, Lambda, and Slack**](https://towardsaws.com/how-to-build-an-automated-aws-incident-response-system-with-guardduty-eventbridge-lambda-and-7e5ae18c85cd?source=friends_link&sk=2a3a486e4f49a2801e32f7309391bdea)
 
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulhakeem-sulaiman/)
