@@ -1,5 +1,4 @@
 # How to Build an Automated AWS Incident Response System with GuardDuty, EventBridge, Lambda, and Slack
-# AWS GuardDuty Auto-Remediation Bot
 
 An automated incident response solution that detects AWS GuardDuty findings and executes remediation actions including instance isolation, forensic snapshots, and Slack notifications.
 
